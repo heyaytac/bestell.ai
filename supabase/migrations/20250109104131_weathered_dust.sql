@@ -1,0 +1,2 @@
+-- This is a placeholder seed file
+-- Add any initial data you want to seed your database with
