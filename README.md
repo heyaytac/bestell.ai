@@ -1,3 +1,3 @@
 # bestell.ai
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/heyaytac/bestell.ai)
+deployed from yumorder - AI Agent for incoming restaurant orders
